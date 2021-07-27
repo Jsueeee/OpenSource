@@ -19,5 +19,8 @@
 * [Shape Image View](https://github.com/siyamed/android-shape-imageview)
 * [Album & Camera Image Picker](https://github.com/OpenSooq/Gligar)
 
+### Switch
+* [Switch Custom](https://github.com/Angads25/android-toggle)
+
 ## Permission
 * [Ted Permission](https://github.com/ParkSangGwon/TedPermission)
